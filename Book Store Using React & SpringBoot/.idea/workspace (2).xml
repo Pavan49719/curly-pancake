@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="088197cd-594d-4261-ac81-44255b7ef870" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/.idea/8_Bookstore_React_Springboot_Mysql.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/bookstore-react/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/bookstore-react/.idea/bookstore-react.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/bookstore-react/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/bookstore-react/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/bookstore-react/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/bookstore-react/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/bookstore-react/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/bookstore-react/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/bookstore-react/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/bookstore-react/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/bookstore-react/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/bookstore-react/public/images/BookstoreImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/bookstore-react/public/images/book.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/bookstore-react/public/images/book2.avif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/bookstore-react/public/images/bookimage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/bookstore-react/public/images/booklogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/bookstore-react/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/bookstore-react/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/bookstore-react/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/bookstore-react/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/bookstore-react/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/bookstore-react/src/BookCard.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/bookstore-react/src/Collections.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/bookstore-react/src/Home.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/bookstore-react/src/NavBar.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/bookstore-react/src/bookcard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/bookstore-react/src/home.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/bookstore-react/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/bookstore-react/src/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/bookstore-react/src/login.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/bookstore-react/src/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/bookstore-react/src/navbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/bookstore-react/src/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/bookstore-react/src/signup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/bookstore-react/src/signup.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/uttdemo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/uttdemo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/uttdemo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/uttdemo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/uttdemo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/uttdemo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/uttdemo/src/main/java/com/uttexample/uttdemo/UttDemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/uttdemo/src/main/java/com/uttexample/uttdemo/controller/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/uttdemo/src/main/java/com/uttexample/uttdemo/entity/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/uttdemo/src/main/java/com/uttexample/uttdemo/service/BookService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/uttdemo/src/main/java/com/uttexample/uttdemo/service/BookServiceInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/uttdemo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Book Store Using React &amp; SpringBoot/uttdemo/src/test/java/com/uttexample/uttdemo/UttdemoApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PVtZ6zSljxpnHaT4hGXFiSAFwd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Priyanka-PC/Desktop/WTLABS/bsurs"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="088197cd-594d-4261-ac81-44255b7ef870" name="Changes" comment="" />
+      <created>1683554128450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683554128450</updated>
+    </task>
+    <servers />
+  </component>
+</project>
